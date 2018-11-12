@@ -6,7 +6,7 @@
 
 Этот репозиторий призван помочь как администрации ресурса, так и пользователям. Смею надеяться, что с помощью предлагаемого инструмента следить и участвовать в развитии проекта будет проще. 
 
-**Cписок пожеланий, отсортированных по количеству +1 голосов:** [https://github.com/ImaginariaRU/dear-imaginaria/issues](https://github.com/ImaginariaRU/dear-imaginaria?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
+**Cписок пожеланий, отсортированных по количеству обсуждений:** [https://github.com/ImaginariaRU/dear-imaginaria/issues](https://github.com/ImaginariaRU/dear-imaginaria/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc)
 
 ### Правила использования этого репозитория:
 
@@ -19,4 +19,4 @@
 ### Благодарности:
 
 - [dear-github](https://github.com/dear-github) за идею репозитория без кода
-- [dear-habr](https://github.com/limonte/dear-habr) за идею механизма сбора фидбека для элитного хабрахабра для ролевиков
+- [dear-habr](https://github.com/limonte/dear-habr) за идею механизма сбора фидбека для элитного *хабрахабра для ролевиков*
